@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="left">Currently working as a Project Engineer in VLSI-DAC at <a href="https://www.cdac.in/index.aspx?id=hgc">C-DAC</a></h3>
+<h3 align="left">Currently working as a Emulation Engineer in  at <a href="https://www.qualcomm.com/">Qualcomm</a></h3>
 
 
 ![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shwet638&theme=gruvbox&layout=compact)
